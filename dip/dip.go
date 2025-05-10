@@ -3,7 +3,7 @@ package dip
 import (
 	"fmt"
 
-	"github.com/mcholismalik/solid-go/dip/after"
+	"github.com/dedekrnwan/go-solid/dip/after"
 )
 
 type Factory struct {

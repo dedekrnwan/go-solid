@@ -3,7 +3,7 @@ package ocp
 import (
 	"fmt"
 
-	"github.com/mcholismalik/solid-go/ocp/after"
+	"github.com/dedekrnwan/go-solid/ocp/after"
 )
 
 func Run() {

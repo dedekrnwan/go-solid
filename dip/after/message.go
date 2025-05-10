@@ -24,7 +24,7 @@ type MessageEmail struct {
 func (m *MessageSocmed) Create() *MessageSocmed {
 	template := m.MessageTemplate.Create()
 	m = &MessageSocmed{
-		Body: "Hai malik !" + template,
+		Body: "Hai bambang !" + template,
 	}
 
 	fmt.Println("Create Message")
@@ -37,7 +37,7 @@ func (m *MessageEmail) Create() *MessageEmail {
 
 	m = &MessageEmail{
 		Subject: "Info",
-		Body:    "Hai malik !" + template,
+		Body:    "Hai bambang !" + template,
 	}
 
 	fmt.Println("Create Message")

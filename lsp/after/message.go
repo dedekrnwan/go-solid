@@ -14,7 +14,7 @@ type Message struct {
 func (m *Message) Create() string {
 	template := m.MessageTemplate.Create()
 	m = &Message{
-		Body: "Hai malik !" + template,
+		Body: "Hai bambang !" + template,
 	}
 
 	res := m.Body

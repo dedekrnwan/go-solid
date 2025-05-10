@@ -12,7 +12,7 @@ type Message struct {
 
 func (m *Message) Create() string {
 	m = &Message{
-		Body: "Hai malik !",
+		Body: "Hai bambang !",
 	}
 
 	res := m.Body

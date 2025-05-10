@@ -3,7 +3,7 @@ package isp
 import (
 	"fmt"
 
-	"github.com/mcholismalik/solid-go/isp/after"
+	"github.com/dedekrnwan/go-solid/isp/after"
 )
 
 func Run() {

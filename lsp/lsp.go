@@ -3,7 +3,7 @@ package lsp
 import (
 	"fmt"
 
-	"github.com/mcholismalik/solid-go/lsp/after"
+	"github.com/dedekrnwan/go-solid/lsp/after"
 )
 
 func Run() {

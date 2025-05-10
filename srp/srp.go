@@ -3,7 +3,7 @@ package srp
 import (
 	"fmt"
 
-	"github.com/mcholismalik/solid-go/srp/after"
+	"github.com/dedekrnwan/go-solid/srp/after"
 )
 
 func Run() {

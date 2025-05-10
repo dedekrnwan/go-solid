@@ -3,11 +3,11 @@ package main
 import (
 	"fmt"
 
-	"github.com/mcholismalik/solid-go/dip"
-	"github.com/mcholismalik/solid-go/isp"
-	"github.com/mcholismalik/solid-go/lsp"
-	"github.com/mcholismalik/solid-go/ocp"
-	"github.com/mcholismalik/solid-go/srp"
+	"github.com/dedekrnwan/go-solid/dip"
+	"github.com/dedekrnwan/go-solid/isp"
+	"github.com/dedekrnwan/go-solid/lsp"
+	"github.com/dedekrnwan/go-solid/ocp"
+	"github.com/dedekrnwan/go-solid/srp"
 )
 
 func main() {

@@ -15,9 +15,9 @@ type User struct {
 func (u *User) GetSender() *User {
 	return &User{
 		id:    1,
-		name:  "Malik",
+		name:  "bambang",
 		phone: 6281,
-		email: "malik@gmail.com",
+		email: "bambang@gmail.com",
 	}
 }
 

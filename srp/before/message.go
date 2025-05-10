@@ -15,7 +15,7 @@ type Message struct {
 
 func (m *Message) Create() *Message {
 	msg := Message{
-		body:     "Hi, malik !",
+		body:     "Hi, bambang !",
 		sender:   6287,
 		receiver: 6281,
 	}

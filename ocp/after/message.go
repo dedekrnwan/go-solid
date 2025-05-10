@@ -22,7 +22,7 @@ func (m *Message) Create() string {
 	}
 
 	m = &Message{
-		Body: "Hai malik !" + template,
+		Body: "Hai dede !" + template,
 	}
 
 	res := m.Body
