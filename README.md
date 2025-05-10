@@ -18,12 +18,6 @@ To make project easier to maintain and extend as project grows, with avoiding ba
 4. Viscosity (Like swim in syrup)
   - Bad written, pattern, or documentation.
 
-## Presentation
-- https://www.canva.com/design/DAEj5nJFQEM/iKQXLXO2btPdeyVzkw2Y3w/view?utm_content=DAEj5nJFQEM&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton
-
-## Stay in touch
-- Author - [Muhammad Cholis Malik](https://www.linkedin.com/in/mcholismalik/)
-
 ## Reference
 - https://dave.cheney.net/2016/08/20/solid-go-design
 - https://medium.com/@felipedutratine/solid-single-responsibility-principle-in-golang-dc4a6be9bb3a
